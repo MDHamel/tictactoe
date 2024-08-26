@@ -1,3 +1,17 @@
 :root{
-    --background: #333;
+    --background: #383736 !important;
+
+    --blue-bg: #418dd4;
+    --blue-txt: #0d477c;
+
+    --red-bg: #da5142;
+    --red-txt: #96271b;
+}
+
+.text-blue{
+    color: var(--blue-bg) !important;
+}
+
+.text-red{
+    color: var(--red-bg) !important;
 }
